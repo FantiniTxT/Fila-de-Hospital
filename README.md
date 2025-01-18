@@ -23,6 +23,7 @@ Um hospital deseja organizar o atendimento de pacientes em uma **fila de espera*
 2. Crie uma **classe** `FilaHospital` com os seguintes métodos:
    - `adicionar_paciente`: adiciona um paciente à fila.  
    - `exibir_fila`: exibe a ordem de atendimento no formato:
+
      ```
      Alta urgência:
      - Nome: Maria | Idade: 72 anos
